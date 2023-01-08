@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/100339835/211200085-70ca6246-5926-4e5f-884b-4cd9a91d2880.png)
 <br>
 ## Download
-in `Release`
+`Release` 를 봐 주세요. (윈도우만 가능)
