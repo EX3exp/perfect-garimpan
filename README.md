@@ -7,4 +7,5 @@
 ![image](https://user-images.githubusercontent.com/100339835/211200085-70ca6246-5926-4e5f-884b-4cd9a91d2880.png)
 <br>
 ## Download
-`Release` 를 봐 주세요. (Only Windows Supported)
+`Release`에서 `perfect_garimpan.zip`을 다운로드합니다. 
+<br>(Only Windows Supported)
