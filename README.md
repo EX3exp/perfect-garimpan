@@ -8,4 +8,6 @@
 <br>
 ## Download
 `Release`에서 `perfect_garimpan.zip`을 다운로드합니다. 
-<br>(Only Windows Supported)
+<br>(Only Windows Supported)<br>
+<br>혹시라도 이러면 `계속`을 눌러 주시면 됩니다.<br>
+![image](https://user-images.githubusercontent.com/100339835/211200737-74f1a8a1-4e18-4716-bbad-51f7278393b8.png)
